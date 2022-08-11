@@ -1,4 +1,3 @@
-# MR_Page-Rank
 # MR_PageRank
 
 This is a simple Map Reduce implementation of page rank algorithm.
